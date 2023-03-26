@@ -1,0 +1,51 @@
+.glxavor{
+    width: 1350px;
+    height: 630px;;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+
+}
+.mijin{
+    width: 100%;
+    height: 210px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+}
+.poqr{
+    width: 200px;
+    height: 205px;
+    background-color: chartreuse;
+    border-radius: 50%;
+}
+.mijin1{
+    width: 100%;
+    height: 210px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+}
+.poqr1{
+    width: 200px;
+    height: 205px;
+    background-color: coral;
+    border-radius: 50%;
+}
+.mijin2{
+    width: 100%;
+    height: 210px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+}
+.poqr2{
+    width: 200px;
+    height: 205px;
+    background-color: darkturquoise;
+    border-radius: 50%;
+}
